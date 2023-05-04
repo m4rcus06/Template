@@ -1,15 +1,15 @@
 #include <bits/stdc++.h>
+using namespace std;
+
 #define all(x) begin(x), end(x)
 #define sz(x) (int)(x).size()
 #define st first
 #define nd second
-#define pll pair<long long, long long>
-#define pii pair<int, int>
 
 typedef unsigned long long ull;
 typedef long long ll;
-
-using namespace std;
+typedef pair<int, int> pii;
+typedef pair<ll, ll> pll;
 
 void solve() {
 
